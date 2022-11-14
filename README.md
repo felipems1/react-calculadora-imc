@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Calculadora de IMC.
+Você pode visualizar o projeto através [DESSE LINK](https://calculadora-imc-357fa.web.app/).
 
 ---
 
