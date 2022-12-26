@@ -23,8 +23,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Você pode visualizar o projeto através [DESSE LINK](https://calculadora-imc-357fa.web.app/).
+Você pode visualizar o projeto através [DESSE LINK](https://app-calc-imc.netlify.app/).
 
 ---
 
-[Link do meu perfil no Linkedin.](https://www.linkedin.com/in/felipe-moises-4a1b58248/) 
+[Link do meu perfil no Linkedin.](https://www.linkedin.com/in/felipe-moises-4a1b58248/)
